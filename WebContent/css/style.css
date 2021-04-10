@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0;}
+.clr{ clear:both;}
+.head{ background:rgba(13,227,110,1.00);}
+.logo{ width:20%; height:80px; float:left;}
+.logo h1{ color:#FFF; line-height:80px; margin-left:5%;}
+.link_top{ width:80%; height:80px; float:right;}
+.link_top ul{ text-align:right; margin-right:5%;}
+.link_top ul li{ display:inline;}
+.link_top ul li a{ text-decoration:none; color:#FFF; font-size:20px; padding:0.50% 2%; background:rgba(101,137,220,1.00);}
+.nav{ margin-top:0.50%;}
+.nav ul li{ display:inline;}
+.nav ul li a{ padding:0.50% 1.98%; background:rgba(236,167,36,1.00); color:#FFF; text-decoration:none; font-size:20px; text-transform:uppercase;}
+.banner{ margin-top:0.60%;}
+.mid{ min-height:550px;}
+.mid-left{ width:80%; min-height:550px; float:left;}
+.mid-right{ width:20%; min-height:550px; background:rgba(204,199,199,1.00); float:right;}
+.footer{ background:rgba(13,227,110,1.00); margin-top:5px;}
+.footer h4{ padding:2%; color:#FFF;}
